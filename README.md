@@ -3,7 +3,7 @@
 **The most creative retry library in Go.**
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/Vealcoo/retryflow.svg)](https://pkg.go.dev/github.com/Vealcoo/retryflow)
-[![Tests](https://github.com/Vealcoo/retryflow/retryflow/actions/workflows/test.yml/badge.svg)](https://github.com/Vealcoo/retryflow/actions/workflows/test.yml)
+[![Tests](https://github.com/Vealcoo/retryflow/actions/workflows/test.yml/badge.svg)](https://github.com/Vealcoo/retryflow/actions/workflows/test.yml)
 [![Coverage](https://codecov.io/gh/Vealcoo/retryflow/branch/main/graph/badge.svg)](https://codecov.io/gh/Vealcoo/retryflow)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Vealcoo/retryflow)](https://goreportcard.com/report/github.com/Vealcoo/retryflow)
 [![GitHub stars](https://img.shields.io/github/stars/Vealcoo/retryflow.svg?style=social&label=Star)](https://github.com/Vealcoo/retryflow/stargazers)
